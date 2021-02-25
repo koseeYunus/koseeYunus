@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Back-End Programing with c# and mobile programming with Flutter SDK.
-- 📫 How to reach me: ![Gmail](https://img.icons8.com/clouds/2x/gmail.png)
+- 📫 How to reach me: ![Gmail]<img height="32" width="32" src="https://img.icons8.com/clouds/2x/gmail.png" />
 
 ![koseeYunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight)
 
