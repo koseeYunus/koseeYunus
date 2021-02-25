@@ -2,8 +2,7 @@
 
 - 💬 I’m currently working on Flutter Sdk on the MySportsCoach Application.
 - ⚡ I’m currently learning backend programming with c#
-- 📫 How to reach me: [kose.yunus.55@gmail.com] <img height="25" width="25" src="https://www.svgrepo.com/show/243092/gmail.svg" />
-
+- <img height="25" width="25" src="https://www.svgrepo.com/show/243092/gmail.svg" /> How to reach me: [kose.yunus.55@gmail.com]
 
 ![koseeYunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight)
 
