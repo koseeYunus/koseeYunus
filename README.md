@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Flutter Sdk on the MySportsCoach Application.
-- 🌱 I’m currently learning backend programming with c#
+- 💬 I’m currently working on Flutter Sdk on the MySportsCoach Application.
+- ⚡ I’m currently learning backend programming with c#
+- 📫 How to reach me: [Gmail]<img height="25" width="25" src="https://www.svgrepo.com/show/243092/gmail.svg" />
 
 
 ![koseeYunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight)
