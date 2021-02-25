@@ -5,7 +5,7 @@
 
 ![koseeYunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact)
 
 
 <!--
