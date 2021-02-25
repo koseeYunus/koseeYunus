@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Back-End Programing with c# and mobile programming with Flutter SDK.
+- 📫 How to reach me: ![Gmail](https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png)
+
 <!--
 **koseeYunus/koseeYunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
