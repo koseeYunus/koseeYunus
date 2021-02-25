@@ -8,6 +8,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight)
 
+:squirrel:
+
+
 <!--
 **koseeYunus/koseeYunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
