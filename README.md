@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Back-End Programing with c# and mobile programming with Flutter SDK.
 - 📫 How to reach me: ![Gmail](https://img.icons8.com/clouds/2x/gmail.png)
-</br>
+
 ![koseeYunus's GitHub stats](https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight)
-</br>
+
 
 <!--
 **koseeYunus/koseeYunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
