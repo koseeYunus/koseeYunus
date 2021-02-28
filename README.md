@@ -8,7 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight)
 
-:squirrel:
 
 
 <!--
