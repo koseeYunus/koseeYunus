@@ -10,10 +10,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight)
 
-<h3 align="left">Connect with me mail:  kose.yunus.55@gmail.com</h3>
-<p align="left">
-/*<a href="https://www.linkedin.com/in/yunuskose55/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yunuskose55/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/koseeyunus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/koseeyunus/" height="30" width="40" /></a>
-<a href="kose.yunus.55@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kose.yunus.55@gmail.com" height="30" width="40" /></a>
-</p>*/
+<h3 align="left">You can contact me by e-mail :  kose.yunus.55@gmail.com</h3>
+
 
