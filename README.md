@@ -16,3 +16,11 @@
 <a href="https://www.instagram.com/koseeyunus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/koseeyunus/" height="30" width="40" /></a>
 <a href="kose.yunus.55@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kose.yunus.55@gmail.com" height="30" width="40" /></a>
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
