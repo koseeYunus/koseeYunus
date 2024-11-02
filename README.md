@@ -3,13 +3,15 @@
 <h3 align="left">Flutter Developer & Software Trainer 🚀</h3>
 
 ### 🎯 Uzmanlık Alanlarım
-
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   </a>
 </p>
 
@@ -20,6 +22,11 @@
 - 🌐 RESTful API entegrasyonları
 - 🔥 Firebase entegrasyonları
 - 📊 Clean Architecture
+
+### 🤖 Robotik & Arduino Yeteneklerim
+- 🔌 Sensör entegrasyonları ve veri okuma
+- 📡 IoT projeler geliştirme
+- 🤖 Robot programlama ve kontrol
 
 ### 🛠️ Diğer Teknolojiler
 <p align="left">
@@ -32,12 +39,15 @@
 ### 📚 Eğitim & Deneyim
 - 💼 Cross-Platform Uygulama Geliştirme
 - 👨‍🏫 Yazılım Eğitmenliği
+- 🤖 Robotik Kodlama Eğitmenliği
 
 ### 📊 GitHub İstatistikleri
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=koseeYunus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<a href="https://github.com/koseeYunus">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koseeYunus&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 
 <p align="left">
   <a href="mailto:kose.yunus.55@gmail.com">
