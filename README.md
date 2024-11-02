@@ -1,16 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif" width="150"/>
-</div>
-
-<h1 align="center">Merhaba 👋</h1>
-<h1 align="center">Ben Yunus KÖSE</h1>
-<h3 align="center">Flutter Developer & Software Trainer 🚀</h3>
-
-<p align="center">
-  <a href="mailto:kose.yunus.55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-</p>
+<h1 align="left">Merhaba 👋</h1>
+<h1 align="left">Ben Yunus KÖSE</h1>
+<h3 align="left">Flutter Developer & Software Trainer 🚀</h3>
 
 ### 🎯 Uzmanlık Alanlarım
 
@@ -50,4 +40,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <a href="mailto:kose.yunus.55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
