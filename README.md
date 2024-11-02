@@ -34,12 +34,12 @@
 - 👨‍🏫 Yazılım Eğitmenliği
 
 ### 📊 GitHub İstatistikleri
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=koseeYunus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koseeYunus&exclude_repo=SoftwareCamp&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
   <a href="mailto:kose.yunus.55@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
