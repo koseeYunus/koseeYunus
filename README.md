@@ -1,34 +1,34 @@
-<h1 align="left">Merhaba 👋</h1>
-<h1 align="left">Ben Yunus KÖSE</h1>
+<h1 align="left">Hi there 👋</h1>
+<h1 align="left">I'm Yunus KÖSE</h1>
 <h3 align="left">Flutter Developer & Software Trainer 🚀</h3>
 
-### 🎯 Uzmanlık Alanlarım
+### 🎯 Areas of Expertise
 <p align="left">
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/>
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
-  </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
   </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/>
+  </a>
 </p>
 
-### 💻 Flutter & Dart Yeteneklerim
-- 📱 Cross-platform mobil uygulama geliştirme
-- 🎨 UI/UX tasarım 
+### 💻 Flutter & Dart Skills
+- 📱 Cross-platform mobile app development
+- 🎨 UI/UX design 
 - 🔄 State Management (Bloc, GetX)
-- 🌐 RESTful API entegrasyonları
-- 🔥 Firebase entegrasyonları
+- 🌐 RESTful API integrations
+- 🔥 Firebase implementations
 - 📊 Clean Architecture
 
-### 🤖 Robotik & Arduino Yeteneklerim
-- 🔌 Sensör entegrasyonları ve veri okuma
-- 📡 IoT projeler geliştirme
-- 🤖 Robot programlama ve kontrol
+### 🤖 Robotics & Arduino Skills
+- 🔌 Sensor integration and data reading
+- 📡 IoT project development
+- 🤖 Robot programming and control
 
-### 🛠️ Diğer Teknolojiler
+### 🛠️ Other Technologies
 <p align="left">
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -36,12 +36,12 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 </p>
 
-### 📚 Eğitim & Deneyim
-- 💼 Cross-Platform Uygulama Geliştirme
-- 👨‍🏫 Yazılım Eğitmenliği
-- 🤖 Robotik Kodlama Eğitmenliği
+### 📚 Education & Experience
+- 💼 Cross-Platform Application Development
+- 👨‍🏫 Software Training
+- 🤖 Robotics Coding Instructor
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub Statistics
 [![GitHub Streak](https://streak-stats.demolab.com?user=koseeYunus&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/koseeYunus">
